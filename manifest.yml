@@ -1,0 +1,8 @@
+---
+applications:
+- name: com-sap-icn-gateway-example
+  memory: 1G
+  random-route: true
+  path: target/gateway-example-0.0.1-SNAPSHOT.war
+  services:
+    - gateway-example-credentials
