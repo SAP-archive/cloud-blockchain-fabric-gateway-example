@@ -102,5 +102,4 @@ There are no known issues at this time.
 This project is provided "as-is" without support.
 
 ## License
-[LICENSE](LICENSES/Apache-2.0.txt)
-
+Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
